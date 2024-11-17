@@ -12,9 +12,11 @@ https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
 文件命名规则：
 
 B-ch02-ipynb表示第一本书Build a Large Language Model (From Scratch) (MEAP) (Sebastian Raschka)的第二章的代码
+
 H-ch01-ipynb表示第二本书Hands-On Large Language Models Language Understanding and Generation的第一章的代码
 
 分工如下：
+
 H-ch01-ipynb 胡新雨
 
 H-ch02-ipynb 沈均瑶
