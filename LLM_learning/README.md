@@ -29,9 +29,17 @@ H-ch05-ipynb 赵耀邦
 
 H-ch06-ipynb 胡新雨
 
-H-ch07-ipynb 沈均瑶
+H-ch07-ipynb 蒋铭泉
 
-H-ch08-ipynb 张馨文
+H-ch08-ipynb 沈均瑶
+
+H-ch09-ipynb 赵耀邦
+
+H-ch10-ipynb 张馨文
+
+H-ch11-ipynb 胡新雨
+
+H-ch12-ipynb 蒋铭泉
 
 B-ch02-ipynb 赵耀邦
 
@@ -41,8 +49,5 @@ B-ch04-ipynb 沈均瑶
 
 B-ch05-ipynb 张馨文
 
-B-ch06-ipynb 蒋铭泉
-
-B-ch07-ipynb 赵耀邦
 
 
